@@ -19,6 +19,6 @@ $(document).ready(function () {
 
   $(".card").on("click", function() {
     // Mengarahkan ke halaman HTML lain, misalnya "halaman_lain.html"
-    window.location.href = "pages/chill_rose.html";
+    window.location.href = "pages/ucapan.html";
   });
 });
